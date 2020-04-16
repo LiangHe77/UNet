@@ -152,5 +152,3 @@ if __name__== "__main__":
     net = UNet()
     output = net(input)
     print(output.shape)
-
-
